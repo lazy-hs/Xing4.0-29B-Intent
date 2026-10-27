@@ -1,5 +1,7 @@
 <h1 align="center">Xing4.0-29B-Intent</h1>
 
+<p align="center"><strong>Xing4.0-29B-Intent</strong> — 基于 29B MoE（每 token 仅激活 4B 参数）的 Schema 引导意图识别与结构化信息抽取模型。</p>
+
 <p align="center">
   🤗 <a href="https://huggingface.co/XingChen-AGI/Xing4.0-29B-Intent">Hugging Face</a> •
   🤖 <a href="https://www.modelscope.cn/models/XingChen-AGI/Xing4.0-29B-Intent">ModelScope</a> •
