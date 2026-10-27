@@ -177,6 +177,16 @@ SDK 自动完成提示词组装和结果解析。多轮对话、异步调用、S
 如果本项目对你的研究或应用有帮助，欢迎引用本项目及基座模型的相关工作。
 
 ```bibtex
+@misc{li2026xinguspcrossfamilysemantic,
+      title={Xing USP: A Cross-Family Semantic Contract for Information Extraction and Intent-Slot Parsing}, 
+      author={Zhongqiu Li and Boyang Wang and Ruiyu Fang and Shiquan Wang and Di Wu and Jiayi Liang and Feilong Zhang and Hongfeng Du and Xiaomeng Huang and Mengjiao Bao and Luwen Pu and Xuewei He and Yu Zhao and Chao Wang and Kaidong Yu and Bingkai Yang and Qingjun Zhu and Shaoyi Du and Shuangyong Song and Yongxiang Li},
+      year={2026},
+      eprint={2610.34343},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2610.34343}, 
+}
+
 @misc{liu2025trainingreporttelechat3moe,
       title={Training Report of TeleChat3-MoE}, 
       author={Xinzhang Liu and Chao Wang and Zhihao Yang and Zhuo Jiang and Xuncheng Zhao and Haoran Wang and Lei Li and Dongdong He and Luobin Liu and Kaizhe Yuan and Han Gao and Zihan Wang and Yitong Yao and Sishi Xiong and Wenmin Deng and Haowei He and Kaidong Yu and Yu Zhao and Ruiyu Fang and Yuhao Jiang and Yingyan Li and Xiaohui Hu and Xi Yu and Jingqi Li and Yanwei Liu and Qingli Li and Xinyu Shi and Junhao Niu and Chengnuo Huang and Yao Xiao and Ruiwen Wang and Fengkai Li and Luwen Pu and Kaipeng Jia and Fubei Yao and Yuyao Huang and Xuewei He and Zhuoru Jiang and Ruiting Song and Rui Xue and Qiyi Xie and Jie Zhang and Zilu Huang and Zhaoxi Zhang and Zhilong Lu and Yanhan Zhang and Yin Zhang and Yanlei Xue and Zhu Yuan and Teng Su and Xin Jiang and Shuangyong Song and Yongxiang Li and Xuelong Li},
@@ -195,5 +205,15 @@ SDK 自动完成提示词组装和结果解析。多轮对话、异步调用、S
       archivePrefix={arXiv},
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2507.18013}, 
+}
+
+@misc{he2024telechattechnicalreport,
+      title={TeleChat Technical Report}, 
+      author={Zhongjiang He and Zihan Wang and Xinzhang Liu and Shixuan Liu and Yitong Yao and Yuyao Huang and Xuelong Li and Yongxiang Li and Zhonghao Che and Zhaoxi Zhang and Yan Wang and Xin Wang and Luwen Pu and Huinan Xu and Ruiyu Fang and Yu Zhao and Jie Zhang and Xiaomeng Huang and Zhilong Lu and Jiaxin Peng and Wenjun Zheng and Shiquan Wang and Bingkai Yang and Xuewei he and Zhuoru Jiang and Qiyi Xie and Yanhan Zhang and Zhongqiu Li and Lingling Shi and Weiwei Fu and Yin Zhang and Zilu Huang and Sishi Xiong and Yuxiang Zhang and Chao Wang and Shuangyong Song},
+      year={2024},
+      eprint={2401.03804},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2401.03804}, 
 }
 ```
